@@ -21,7 +21,7 @@ char *leet(char *n)
 				n[a] = trw[b];
 			b++;
 		}
-		a++
+		a++;
 	}
 	return (n);
 }
